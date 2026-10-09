@@ -65,7 +65,7 @@ Microsoft Windows Server is the initial target platform. The core design is inte
 
 **Status: Early design.** This README describes the project's intended direction and capabilities. RETRANS is not yet a production-ready release.
 
-Detailed architecture, configuration, transport contracts, security decisions, and acceptance testing will be maintained separately from this overview in the repository's technical documentation.
+Detailed architecture, configuration, transport contracts, security decisions, and acceptance testing are maintained in the [engineering documentation](documentation/README.md). See the [roadmap](documentation/ROADMAP.md) for planned engineering stages.
 
 ## License
 
